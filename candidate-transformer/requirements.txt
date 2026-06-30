@@ -1,0 +1,9 @@
+pydantic
+pandas
+phonenumbers
+python-dateutil
+pycountry
+click
+jsonschema
+pdfplumber
+python-docx
