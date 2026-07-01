@@ -154,7 +154,7 @@ candidate-profile-transformer/
 ## Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/mukkamalasivakartheek/candidate-profile-transformer.git
 cd candidate-profile-transformer
 ```
 
